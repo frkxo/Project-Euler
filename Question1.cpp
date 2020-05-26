@@ -44,10 +44,3 @@ int main(){
 	cout << "\n" << total;
 	return 0;
 }
-	
-
-
-
-
-
-
