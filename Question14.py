@@ -1,6 +1,4 @@
 #problem 14 project euler
-import time
-start=time.time()
 has2={}
 def collatz(x):
     seq=[]
